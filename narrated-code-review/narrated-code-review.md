@@ -49,17 +49,17 @@ This view demonstrates how different this is from the editor workflow. Editors p
 
 ## Not rude to interrupt
 
-The escape key can be pressed at any time to stop CC. The level of effort for this is very low. In fact, the choice of this key is no accident, as it the most well-placed key on the keyboard for this purpose. This means that if I am even slightly confused or think CC is even 10% off (or whatever my threshold is), I hit escape and then we have a wee chat to re-group. It's much easier than interupting some of my colleagues.
+The escape key can be pressed at any time to stop CC. The level of effort for this is very low. In fact, the choice of this key is no accident, as it the most well-placed key on the keyboard for this purpose. This means that if I am even slightly confused or think CC is even 10% off (or whatever my threshold is), I hit escape and then we have a wee chat to steer things back on track. It's much easier than interupting some of my colleagues.
 
 ![Interrupt Claude Code](./images/claude-code-interrupt.png)
 
-There is the "human in the loop" term. I think of that as a human being able to take the steering wheel in a self-driving EV. That's reasonably descriptive of what hitting escape is like.
+There is the "human in the loop" term. I think of that as a human being able to take the steering wheel in a self-driving EV.
 
 ![Tell Claude Code what to do differently](./images/claude-code-do-something-different.png)
 
 The intent is for the user to have every opportunity to steer CC in a favorable direction. It's literally got all day.
 
-All the editor experiences I've tried are much more awkward to interrupt and seem to require the mouse to do so.
+All the editor experiences I've tried are much more awkward to interrupt and seem to require using the mouse as the steering wheel.
 
 ## Modality fusion
 
