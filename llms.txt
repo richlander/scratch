@@ -1,0 +1,5 @@
+# Thought papers about working in technology
+
+## Papers
+
+- [Narrated Code Review](narrated-code-review/narrated-code-review.md)
